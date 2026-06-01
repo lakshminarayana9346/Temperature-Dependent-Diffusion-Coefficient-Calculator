@@ -221,6 +221,17 @@ Maximum Temperature: 1400 K
 
 ---
 
+References
+
+1. Callister, W.D. and Rethwisch, D.G.,
+   Materials Science and Engineering: An Introduction.
+
+2. Shewmon, P.G.,
+   Diffusion in Solids.
+
+3. Porter, D.A., Easterling, K.E. and Sherif, M.Y.,
+   Phase Transformations in Metals and Alloys.
+
 ## Author
 
 Lakshmi Narayana  
